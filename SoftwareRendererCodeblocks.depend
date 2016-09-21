@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1471118655 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Actor.cpp
+	"Actor.h"
+
+1471118655 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Actor.h
+
+1471119424 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Command.cpp
+	"Command.h"
+
+1471119419 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Command.h
+	"Actor.h"
+
+1473022769 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Display.cpp
+	"Display.h"
+
+1473022795 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Display.h
+	<string>
+	<SDL2/SDL.h>
+	<iostream>
+	<cmath>
+	"Vector.h"
+
+1473022719 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Vector.h
+
+1471120285 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Event_Handler.cpp
+	"Event_Handler.h"
+
+1473021621 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Event_Handler.h
+	<SDL2/SDL.h>
+	"Command.h"
+	"Exit_Command.h"
+
+1473022598 /media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Exit_Command.h
+	"Command.h"
+	<iostream>
+
+1471119550 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Exit_Command.cpp
+	"Exit_Command.h"
+
+1473022624 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	"Display.h"
+	"Event_Handler.h"
+
+1473022749 source:/media/prithul/Storage/Development/C++/SoftwareRendererCodeblocks/Vector.cpp
+	"Vector.h"
+
